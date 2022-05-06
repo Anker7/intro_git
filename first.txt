@@ -1,1 +1,4 @@
 githubの練習用テキストです。
+下記はgithubのコマンドです。
+・git add
+・git commit
