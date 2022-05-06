@@ -3,3 +3,4 @@ githubの練習用テキストです。
 ・git add
 ・git commit
 ・git rm
+・git status
